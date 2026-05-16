@@ -1,22 +1,31 @@
 cff-version: 1.2.0
-message: "If you reference this work, please cite it as below."
-title: "Layered Observation of Persona Drift in Long-Running LLM Companions: A Field Report"
+message: "If you use this work, please cite the corresponding Zenodo record."
+type: dataset
+title: "Persona Drift Field Report"
 authors:
-  - name: "NoppoSan"
+  - family-names: "NoppoSan"
     orcid: "https://orcid.org/0009-0006-9703-9711"
-date-released: 2026-04-28
-version: "v1"
+    website: "https://studio-nopposan.com"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "NoppoSan"
+      orcid: "https://orcid.org/0009-0006-9703-9711"
+  title: "Layered Observation of Persona Drift in Long-Running LLM Companions: A Field Report — Volume 2 (Dormancy, Discipline, Resilience, and Migration)"
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.20211074"
+  url: "https://doi.org/10.5281/zenodo.20211074"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19854553
+    description: "Concept DOI (resolves to latest version)"
+  - type: doi
+    value: 10.5281/zenodo.19854554
+    description: "Volume 1 DOI"
+  - type: doi
+    value: 10.5281/zenodo.20211074
+    description: "Volume 2 DOI"
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19854554
-url: "https://zenodo.org/records/19854554"
-type: report
-abstract: >-
-  A 60-day field report on persona drift, attention decay, and
-  operational design patterns observed in a single long-running
-  LLM-based companion deployment.
-keywords:
-  - LLM
-  - persona drift
-  - long-context
-  - AI companion
-  - field report
+repository-code: "https://github.com/NoppoSan/persona-drift-fieldreport"
