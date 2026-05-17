@@ -11,12 +11,12 @@ preferred-citation:
   authors:
     - family-names: "NoppoSan"
       orcid: "https://orcid.org/0009-0006-9703-9711"
-  title: "Layered Observation of Persona Drift in Long-Running LLM Companions: A Field Report — Volume 2 (Dormancy, Discipline, Resilience, and Migration)"
+  title: "Layered Observation of Persona Drift in Long-Running LLM Companions: A Field Report — Volume 2.1 (Dormancy, Discipline, Resilience, and Migration)"
   year: 2026
   publisher:
     name: "Zenodo"
-  doi: "10.5281/zenodo.20211074"
-  url: "https://doi.org/10.5281/zenodo.20211074"
+  doi: "10.5281/zenodo.20248701"
+  url: "https://doi.org/10.5281/zenodo.20248701"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.19854553
@@ -26,6 +26,9 @@ identifiers:
     description: "Volume 1 DOI"
   - type: doi
     value: 10.5281/zenodo.20211074
-    description: "Volume 2 DOI"
+    description: "Volume 2 DOI (archived, superseded by v2.1)"
+  - type: doi
+    value: 10.5281/zenodo.20248701
+    description: "Volume 2.1 DOI"
 license: CC-BY-4.0
 repository-code: "https://github.com/NoppoSan/persona-drift-fieldreport"

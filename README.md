@@ -1,7 +1,7 @@
 # Persona Drift Field Report
 
 [![DOI v1](https://zenodo.org/badge/DOI/10.5281/zenodo.19854554.svg)](https://doi.org/10.5281/zenodo.19854554)
-[![DOI v2](https://zenodo.org/badge/DOI/10.5281/zenodo.20211074.svg)](https://doi.org/10.5281/zenodo.20211074)
+[![DOI v2.1](https://zenodo.org/badge/DOI/10.5281/zenodo.20248701.svg)](https://doi.org/10.5281/zenodo.20248701)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 A multi-volume field report on operational phenomena observed in a long-running
@@ -22,7 +22,7 @@ operational** rather than measured.
 | Volume | Date | DOI | Period | Focus |
 |---|---|---|---|---|
 | Volume 1 | 2026-04-28 | [10.5281/zenodo.19854554](https://doi.org/10.5281/zenodo.19854554) | ~60 days | Two-category decomposition, five-axis Layer 2 taxonomy, Layer A/B boundary, three-agent auditing |
-| Volume 2 | 2026-05-16 | [10.5281/zenodo.20211074](https://doi.org/10.5281/zenodo.20211074) | ~78 days (ongoing) | Layer B dormancy/activation, three additional axes (6–8), Session Identity Binding Depth, Deployment Resilience, Axis 9 (operator world-model construction), Intentional Under-Implementation |
+| Volume 2.1 | 2026-05-17 | [10.5281/zenodo.20248701](https://doi.org/10.5281/zenodo.20248701) | ~78 days (ongoing) | Layer B dormancy/activation, three additional axes (6–8), Session Identity Binding Depth, Deployment Resilience, Axis 9 (operator world-model construction), Intentional Under-Implementation (minor revision of v2: reference metadata corrections) |
 
 Volume 2 extends Volume 1 along five dimensions. The Volume 1 framework
 remains valid; Volume 2 adds categorical decompositions and field
@@ -35,7 +35,7 @@ asymmetry hypothesis.
 ## Files
 
 - `papers/paper_v1.pdf` — Volume 1 PDF (mirror of Zenodo v1)
-- `papers/paper_v2.pdf` — Volume 2 PDF (mirror of Zenodo v2)
+- `papers/paper_v2.pdf` — Volume 2.1 PDF (mirror of latest Zenodo, supersedes v2.0; minor revision)
 
 The canonical archived versions live on Zenodo. This repository serves as
 a GitHub-side mirror for discoverability.
@@ -59,17 +59,17 @@ If you cite this work, please cite the Zenodo records:
 }
 ```
 
-**Volume 2** (BibTeX):
+**Volume 2.1** (BibTeX):
 ```bibtex
-@misc{nopposan2026personadriftv2,
+@misc{nopposan2026personadriftv2_1,
   author       = {NoppoSan},
   title        = {Layered Observation of Persona Drift in Long-Running
-                  LLM Companions: A Field Report --- Volume 2
+                  LLM Companions: A Field Report --- Volume 2.1
                   (Dormancy, Discipline, Resilience, and Migration)},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20211074},
-  url          = {https://doi.org/10.5281/zenodo.20211074}
+  doi          = {10.5281/zenodo.20248701},
+  url          = {https://doi.org/10.5281/zenodo.20248701}
 }
 ```
 
