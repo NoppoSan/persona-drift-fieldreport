@@ -1,7 +1,7 @@
-cff-version: 1.2.0
+cff-version: "3.0"
 message: "If you use this work, please cite the corresponding Zenodo record."
 type: dataset
-title: "Persona Drift Field Report"
+title: "Layered Observation of Persona Drift in Long-Running LLM Companions: A Field Report — Volume 3 (Cumulative Edition)"
 authors:
   - family-names: "NoppoSan"
     orcid: "https://orcid.org/0009-0006-9703-9711"
